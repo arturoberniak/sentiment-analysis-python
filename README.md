@@ -81,5 +81,3 @@ The project supports sentiment prediction for new, unseen movie reviews using tr
 - Automatic value annotations on charts
 
 ---
-
-## Project Structure
